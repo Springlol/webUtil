@@ -1,7 +1,4 @@
-/**
- * 
- */
-package springlol.web;
+package springlol.web.util;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
